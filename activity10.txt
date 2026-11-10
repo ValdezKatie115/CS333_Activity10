@@ -1,1 +1,1 @@
-This is the text that we will be using for activity 10!
+This is the text file that we will be using for activity 10!
